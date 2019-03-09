@@ -2,7 +2,7 @@
 title: HEAD
 description: "Una guía gratuita sobre elementos del <head>"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://alvaroadlf.github.io/HEAD/" # the base hostname & protocol for your site (no trailing slash)
+url: "https://alvaroadlf.github.io/HEAD" # the base hostname & protocol for your site (no trailing slash)
 exclude: [readme.md]
 sass:
   #style: compressed
