@@ -21,4 +21,4 @@ compress_html:
   profile: false
   startings: [html, head, body]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
