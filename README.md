@@ -37,7 +37,8 @@
 - [Otros Formatos](#otros-formatos)
 - [Traducciones](#traducciones)
 - [Contribuir](#contribuir)
-- [Autor](#autor)
+- [Autor](#autor-del-proyecto)
+- [Autor de la traducción](#autor-de-la-traduccion)
 - [Licencia](#licencia)
 
 ## Mínimo Recomendado
@@ -540,21 +541,24 @@ Puede ser útil revisar la [Documentación de Jekyll](https://jekyllrb.com/docs/
 
 Revisa todos los increíbles [contribuidores](https://github.com/joshbuchea/HEAD/graphs/contributors) 🤩
 
-## 👤 Autor
+## 👤 Autor del proyecto
 
 **Josh Buchea**
 
 - GitHub: [@joshbuchea](https://github.com/joshbuchea)
 - Mastodon: [@joshbuchea@hachyderm.io](https://hachyderm.io/@joshbuchea)
 
-## 💛 Apoyo
+## 👤 Autor de la traducción
+
+**Alvaro Araoz**
+
+- GitHub: [@alvaroadlf](https://github.com/alvaroadlf)
+
+## 💛 Apoyo por la traducción
 
 Si este proyecto fue útil para ti o tu organización, considera apoyar mi trabajo directamente:
 
-- 💛 [Patrocíname en GitHub](https://github.com/sponsors/joshbuchea)
-- ⭐️ [Dale una estrella a este proyecto en GitHub](https://github.com/joshbuchea/HEAD)
-- 🐙 [Sígueme en GitHub](https://github.com/joshbuchea)
-- 🐘 [Sígueme en Mastodon](https://hachyderm.io/@joshbuchea)
+- ☕️ [Buy me a Ko-Fi](https://ko-fi.com/alvaro)
 
 ¡Toda ayuda cuenta, gracias! 🙏
 
