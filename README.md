@@ -35,10 +35,10 @@
 - [Otros Recursos](#otros-recursos)
 - [Proyectos Relacionados](#proyectos-relacionados)
 - [Otros Formatos](#otros-formatos)
-- [Traducciones](#traducciones)
-- [Contribuir](#contribuir)
-- [Autor](#autor-del-proyecto)
-- [Autor de la traducción](#autor-de-la-traduccion)
+- [Traducciones](#-traducciones)
+- [Contribuir](#-contribuir)
+- [Autor](#-autor-del-proyecto)
+- [Autor de la traducción](#-autor-de-la-traduccion)
 - [Licencia](#licencia)
 
 ## Mínimo Recomendado
