@@ -15,8 +15,8 @@
 - [Iconos](#iconos)
 - [Social](#social)
   - [Facebook Open Graph](#facebook-open-graph)
-  - [Twitter Card](#twitter-card)
-  - [Privacidad de Twitter](#privacidad-de-twitter)
+  - [X Card](#x-card)
+  - [Privacidad de X](#privacidad-de-x)
   - [Schema.org](#schemaorg)
   - [Pinterest](#pinterest)
   - [Facebook Instant Articles](#facebook-instant-articles)
@@ -310,8 +310,8 @@ Estos elementos proporcionan información sobre cómo debe ser percibido y rende
 - 📖 [Protocolo Open Graph](http://ogp.me/)
 - 🛠 Prueba tu página con el [Depurador de Compartidos de Facebook](https://developers.facebook.com/tools/debug/)
 
-### Twitter Card
-> Con las Tarjetas de Twitter, puedes adjuntar fotos, videos y experiencias multimedia enriquecidas a los Tweets, ayudando a dirigir tráfico a tu sitio web. [Más sobre las Tarjetas de Twitter](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
+### X Card
+> Con las Tarjetas de X, puedes adjuntar fotos, videos y experiencias multimedia enriquecidas a los Tweets, ayudando a dirigir tráfico a tu sitio web. [Más sobre las Tarjetas de X](https://developer.x.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards)
 
 ```html
 <meta name="twitter:card" content="summary">
@@ -324,14 +324,14 @@ Estos elementos proporcionan información sobre cómo debe ser percibido y rende
 <meta name="twitter:image:alt" content="Una descripción textual de la imagen que transmite la naturaleza esencial de una imagen a usuarios con discapacidad visual. Máximo 420 caracteres.">
 ```
 
-- 📖 [Comenzando con las tarjetas — Desarrolladores de Twitter](https://dev.twitter.com/cards/getting-started)
-- 🛠 Prueba tu página con el [Validador de Tarjetas de Twitter](https://cards-dev.twitter.com/validator)
+- 📖 [Comenzando con las tarjetas — Desarrolladores de X](https://dev.x.com/cards/getting-started)
+- 🛠 Prueba tu página con el [Validador de Tarjetas de X](https://cards-dev.x.com/validator)
 
-### Privacidad de Twitter
-Si incrustas tweets en tu sitio web, Twitter puede usar información de tu sitio para personalizar contenido y sugerencias para usuarios de Twitter. [Más sobre las opciones de privacidad de Twitter](https://dev.twitter.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
+### Privacidad de X
+Si incrustas tweets en tu sitio web, X puede usar información de tu sitio para personalizar contenido y sugerencias para usuarios de X. [Más sobre las opciones de privacidad de X](https://dev.x.com/web/overview/privacy#what-privacy-options-do-website-publishers-have).
 
 ```html
-<!-- no permitir que Twitter use la información de tu sitio para propósitos de personalización -->
+<!-- no permitir que X use la información de tu sitio para propósitos de personalización -->
 <meta name="twitter:dnt" content="on">
 ```
 
